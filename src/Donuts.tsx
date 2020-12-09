@@ -20,6 +20,7 @@ function Copyright() {
         Paradise Donut Company
       </Link>{' '}
       {new Date().getFullYear()}
+      {'.'}
     </Typography>
   );
 }
